@@ -8,7 +8,7 @@ import Layout from "./Components/Layout";
 import IndexPage from "./Pages/IndexPage";
 import LoginPage from "./Pages/LoginPage";
 import RegisterPage from "./Pages/RegisterPage";
-import { UserContext, UserProvider } from "./Usercontext";
+import { UserContext, UserProvider } from "./usercontext";
 import CreateNewPost from "./Pages/CreateNewPost";
 import PostPage from "./Pages/PostPage";
 import EditPost from "./Pages/EditPost";
